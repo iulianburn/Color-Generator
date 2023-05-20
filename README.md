@@ -1,1 +1,1 @@
-[# Color-Generator](https://bmi-color-generator.netlify.app/)
+(https://bmi-color-generator.netlify.app/)
